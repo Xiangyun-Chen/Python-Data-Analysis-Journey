@@ -15,7 +15,7 @@ My learning journey and projects in data analysis using Python, including NumPy,
     -   向量化运算与广播机制。
     -   常用数学与统计函数。
     -   文件 I/O 与综合练习。
-    -   ➡️ **[查看学习笔记](./notebooks/01_NumPy_Core_Concepts.ipynb)**
+    -   ➡️ **[查看学习笔记](01_NumPy_Core_Concepts.ipynb)**
 
 -   [ ] **模块二：Pandas - 数据处理与分析利器**
     -   `Series` 和 `DataFrame` 的使用。
